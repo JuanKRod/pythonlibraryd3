@@ -1,0 +1,40 @@
+id,
+python,
+python.library,
+python.library.Core Libraries,
+python.library.Core Libraries.NumPy
+python.library.Core Libraries.SciPy
+python.library.Core Libraries.Pandas
+python.library.Visualization,
+python.library.Visualization.Matplotlib
+python.library.Visualization.Seaborn
+python.library.Visualization.Bokeh
+python.library.Machine Learning,
+python.library.Machine Learning.SciKit-Learn
+python.library.Deep Learning,
+python.library.Deep Learning.Keras
+python.library.Deep Learning.Theano
+python.library.Deep Learning.TensorFlow
+python.library.Natural Language Processing,
+python.library.Natural Language Processing.NLTK
+python.library.Natural Language Processing.Gensim
+python.library.Data Mining & Statistics,
+python.library.Data Mining & Statistics.Scrapy
+python.library.Data Mining & Statistics.Statsmodels
+python.library.Data Mining & Statistics.BeautifulSoup
+python.library.Data Wrangling,
+python.library.Data Wrangling.Request
+python.library.Data Wrangling.Simplejson
+python.library.Data Wrangling.SQLAlchemy
+python.library.Data Wrangling.Twisted
+python.library.GUI - Games,
+python.library.GUI - Games.wxPython
+python.library.GUI - Games.Tkinter
+python.library.GUI - Games.Kivy
+python.library.GUI - Games.Pygame
+python.library.Other,
+python.library.Other.Pyglet
+python.library.Other.Nose
+python.library.Other.Peewee
+python.library.Other.IPython
+python.library.Other.SymPy
